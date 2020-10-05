@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Терминалка", "Терминалка\Терминалка.vcxproj", "{22F13BCD-E959-4339-BF07-333CDFFBD354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Debug|x64.ActiveCfg = Debug|x64
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Debug|x64.Build.0 = Debug|x64
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Debug|x86.ActiveCfg = Debug|Win32
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Debug|x86.Build.0 = Debug|Win32
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Release|x64.ActiveCfg = Release|x64
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Release|x64.Build.0 = Release|x64
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Release|x86.ActiveCfg = Release|Win32
+		{22F13BCD-E959-4339-BF07-333CDFFBD354}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FF604E1-AD29-4310-99F5-4A15CD288FF1}
+	EndGlobalSection
+EndGlobal
